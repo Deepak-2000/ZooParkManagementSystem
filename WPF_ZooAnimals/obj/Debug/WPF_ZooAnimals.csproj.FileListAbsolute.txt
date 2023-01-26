@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\bin\Debug\WPF_ZooAnimals.exe.config
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\bin\Debug\WPF_ZooAnimals.exe
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\bin\Debug\WPF_ZooAnimals.pdb
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\MainWindow.g.cs
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\App.g.cs
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals_MarkupCompile.cache
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals_MarkupCompile.lref
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\MainWindow.baml
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.g.resources
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.exe
+C:\Users\admin\OneDrive\Desktop\WPF_ZooAnimals\WPF_ZooAnimals\obj\Debug\WPF_ZooAnimals.pdb
